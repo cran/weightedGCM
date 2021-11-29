@@ -1,0 +1,12 @@
+de8601aed6eb7d18edcd94fae6da0a0d *DESCRIPTION
+ce13012d3002d3d8a10568f711a42f7f *NAMESPACE
+da0e2303e2d61e837c0e575d55910e04 *NEWS.md
+1a6b533090b6481f596b97194fd56a23 *R/WGCM.R
+60cab02a03281193667c3eb73bb34eeb *R/trainFunctions.R
+1c9bfb4f34e53c2f3fcf37ffe5f2f94d *R/utils.R
+91055474b6baab58d6c343d6b7ad3b5e *README.md
+90f37a957d9c78b762205783b711940e *man/wgcm.est.Rd
+e0ac0a73d9431b4c61860325f2936be0 *man/wgcm.fix.Rd
+39078b8c8946c7e13ea72e2db831d5b6 *tests/testthat.R
+e2fddb40ab4575c143753e61c9d4bc3a *tests/testthat/test_wgcmest.R
+e1d311059e71aacf59ab1aa99a19c787 *tests/testthat/test_wgcmfix.R
